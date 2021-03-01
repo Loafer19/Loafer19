@@ -6,8 +6,8 @@ PHP programmer
 Laravel is my ❤️
 
 My projects:
-- Reader's corner - [Liberia](https://liberia.com.ru){:target="_blank"}
+- Reader's corner - [Liberia](https://liberia.com.ru)
 
 📫 How to reach me:
-- [Telegram](https://t.me/Loafer19){:target="_blank"}
+- [Telegram](https://t.me/Loafer19)
 - E-Mail <platonpopelishin@gmail.com>
