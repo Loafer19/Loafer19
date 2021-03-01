@@ -3,8 +3,11 @@
 I'am Ruslan Popelyshyn
 
 PHP programmer
-Laravel is my love
+Laravel is my ❤️
 
-📫 How to reach me: 
-- [Telegram](https://t.me/Loafer19)
-- [Phone](tel:+380509878823)
+My projects:
+- Reader's corner - [Liberia](https://liberia.com.ru){:target="_blank"}
+
+📫 How to reach me:
+- [Telegram](https://t.me/Loafer19){:target="_blank"}
+- E-Mail <platonpopelishin@gmail.com>
