@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'am Ruslan Popelyshyn
+I'm Ruslan Popelyshyn
 
-PHP programmer
+PHP programmer  
 Laravel is my ❤️
 
 My projects:
