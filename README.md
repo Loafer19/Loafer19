@@ -10,4 +10,4 @@ My projects:
 
 📫 How to reach me:
 - [Telegram](https://t.me/Loafer19)
-- E-Mail <platonpopelishin@gmail.com>
+- <platonpopelishin@gmail.com>
