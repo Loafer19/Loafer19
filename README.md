@@ -8,7 +8,7 @@ Backend developer from Ternopil, Ukraine 🇺🇦. Laravel is my ❤️, but lat
 
 #### ✨ Recent highlights
 
-- **Wordle Lab: a strategy that beats max entropy.** My "Small groups" strategy (maximise Σ 1/group size, largest group ≤ ⌈n/4⌉) averages **3.450** guesses on all 2,315 answers in normal mode, against **3.465** for max entropy, with 0 fails. It's also ahead in hard mode (3.546 vs 3.603). [Leaderboard](https://github.com/Loafer19/wordle-lab#-strategy-results) · [try it](https://wordle.fundsflow.fun)
+- **[Wordle Lab](https://wordle.fundsflow.fun): built a "small groups" strategy you can actually play in your head ([how](https://wordle.fundsflow.fun/#tab=learn&view=small-groups)).** Count how many answers each guess leaves alone in their group. It lands within 0.02 of max entropy: **3.450** vs **3.434** average guesses on the 2,315-word list with the same SALET opener. On top of it, a 2-ply lookahead strategy matches the proven-optimal tree in both English (**3.4212**) and Ukrainian (**3.3809**).
 - **New Omarchy plugin: [Throttle](https://github.com/Loafer19/omarchy-throttle).** Bandwidth caps for the whole connection or per app, with a games-safe mode and traffic history.
 - **[Vivi v0.14.0](https://github.com/Loafer19/vivi/releases/tag/v0.14.0).** A Streams hub for radio, TV and music, bookmarks on the seek bar, and a smarter sleep timer.
 
