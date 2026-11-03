@@ -8,7 +8,7 @@ Backend developer from Ternopil, Ukraine 🇺🇦. Laravel is my ❤️, but lat
 
 #### ✨ Recent highlights
 
-- **[Wordle Lab](https://wordle.fundsflow.fun): built a "small groups" strategy you can actually play in your head ([how](https://wordle.fundsflow.fun/#tab=learn&view=small-groups)).** Count how many answers each guess leaves alone in their group. It lands within 0.02 of max entropy: **3.450** vs **3.434** average guesses on the 2,315-word list with the same SALET opener. On top of it, a 2-ply lookahead strategy matches the proven-optimal tree in both English (**3.4212**) and Ukrainian (**3.3809**).
+- **[Wordle Lab](https://wordle.fundsflow.fun): built a "small groups" strategy you can actually play in your head ([how](https://wordle.fundsflow.fun/#tab=learn&view=small-groups)).** Count how many answers each guess leaves alone in their group. It lands within 0.02 of max entropy: **3.450** vs **3.434** average guesses on the 2,315-word list with the same SALET opener. On top of it, a 2-ply lookahead strategy matches the proven-optimal tree in both English (**3.4212**) and Ukrainian (**3.3809**). Caveat: the lookahead is a precomputed tree, normal mode only (no hard mode), and in Ukrainian its worst case is 6 guesses (5 in English).
 - **New Omarchy plugin: [Throttle](https://github.com/Loafer19/omarchy-throttle).** Bandwidth caps for the whole connection or per app, with a games-safe mode and traffic history.
 - **[Vivi v0.14.0](https://github.com/Loafer19/vivi/releases/tag/v0.14.0).** A Streams hub for radio, TV and music, bookmarks on the seek bar, and a smarter sleep timer.
 
@@ -34,7 +34,7 @@ Backend developer from Ternopil, Ukraine 🇺🇦. Laravel is my ❤️, but lat
 
 - [FundsFlow](https://github.com/Loafer19/FundsFlow): a simple money management app (Laravel + Vue + Telegram bot) · [fundsflow.fun](https://fundsflow.fun)
 - [Purify](https://github.com/Loafer19/purify): browser extension that hides clutter on YouTube, X, Twitch, Chess.com and more · [Chrome Web Store](https://chromewebstore.google.com/detail/purify-bringing-clarity-t/llabklemehcggiijcoainipfinjffhml)
-- [Wordle Lab](https://github.com/Loafer19/wordle-lab): a Wordle game plus a solver that explains its moves, and a strategy lab (entropy, minimax, SALET tree) · [play](https://wordle.fundsflow.fun)
+- [Wordle Lab](https://github.com/Loafer19/wordle-lab): a Wordle game plus a solver that explains its moves, a coach that reviews your games, and a strategy lab (entropy, minimax, 2-ply lookahead, SALET tree), in English and Ukrainian · [play](https://wordle.fundsflow.fun)
 - [Cursed Apple](https://cursedapple.fun): Deadlock build calculator and reference for heroes, stats, weapons, abilities and shop items (Vue + Bun)
 - [Deeplink](https://e-deeplink.net): a platform for creating deep links
 - [Liberia](https://liberia.com.ua): a free reading platform
